@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "author": "jiangtaotao",
   "description": "Chrome extension to help Gitlab work",
-  "homepage_url": "https://gitlab.saicmobility.com/",
+  "homepage_url": "https://github.com/torrentjiang/gitlabhelper",
   "permissions": [
     "storage"
   ],

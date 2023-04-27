@@ -105,7 +105,6 @@ var GitlabTree = (function($, win) {
     apiProjects = apiRootUrl;
     apiRepoTree = apiRootUrl + project_id + '/repository/tree';
     apiFileContent = originUrl + '/' + repoName + '/files/';
-    https://gitlab.saicmobility.com/saic-web/sail-web/files/master?format=json
 
     var tmpClassName = $('.container').length > 0 ? '.container' : '.content-wrapper .container-fluid';
     initContainerML = $(tmpClassName).offset() && $(tmpClassName).offset().left;
